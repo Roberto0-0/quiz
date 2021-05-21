@@ -28,28 +28,44 @@ console.log(perguntas[2])
 function clicarData1() {
     if(resuData1 === perguntas[2]){
         document.getElementById('data-1').style.boxShadow = "0px 0px 10px 5px green"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Acertou!"
     }else{
         document.getElementById('data-1').style.boxShadow = "0px 0px 10px 5px red"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Errou!"
     }
 }
 function clicarData2() {
     if(resuData2 === perguntas[2]){
         document.getElementById('data-2').style.boxShadow = "0px 0px 10px 5px green"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Acertou!"
     }else{
         document.getElementById('data-2').style.boxShadow = "0px 0px 10px 5px red"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Errou!"
     }
 }
 function clicarData3() {
     if(resuData3 === perguntas[2]){
         document.getElementById('data-3').style.boxShadow = "0px 0px 10px 5px green"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Acertou!"
     }else{
         document.getElementById('data-3').style.boxShadow = "0px 0px 10px 5px red"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Errou!"
     }
 }
 function clicarData4() {
     if(resuData4 === perguntas[2]){
         document.getElementById('data-4').style.boxShadow = "0px 0px 10px 5px green"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Acertou!"
     }else{
         document.getElementById('data-4').style.boxShadow = "0px 0px 10px 5px red"
+        const aviso = document.getElementById('aviso')
+        aviso.innerHTML = "Errou!"
     }
 }
