@@ -139,6 +139,10 @@ body {
         font-size: 2rem;
     }
 
+    #aviso {
+        margin-top: -300px;
+    }
+
     .box-p-r {
         width: 350px;
         height: 600px;
