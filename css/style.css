@@ -223,15 +223,15 @@ body {
     }
 
     .footer {
-        margin-right: 40px;
+        margin-right: 50px;
         width: 300px;
     }
 
     .network {
-        margin-left: 75px;
+        margin-left: 85px;
     }
 
     .copyright {
-        margin-left: 55px;
+        margin-left: 65px;
     }
 }
