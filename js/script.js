@@ -1,8 +1,8 @@
 const perguntas = []
-perguntas['50'] = '7+7:7+7x7-7'
-perguntas['16'] = '7+3:6+7x5-7'
-perguntas['3'] = '1+7:7+7x8-7'
-perguntas['6'] = '4+7:2+7x6-7'
+perguntas['50'] = '7+7÷7+7x7-7'
+perguntas['16'] = '7+3÷6+7x5-7'
+perguntas['3'] = '1+7÷7+7x8-7'
+perguntas['6'] = '4+7÷2+7x6-7'
 
 const telaPerguntas = document.getElementById('perguntas')
 const data1 = document.getElementById('data-1')
